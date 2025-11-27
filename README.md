@@ -10,11 +10,15 @@ Email Me 👉 ✉️ **skmusixcreator9@gmail.com** For Collaboration/Project or 
 - 💬 **Ask me about:** Web Development, UI/UX, JavaScript, React, MERN Stack, Cloud Deployments, Animations, Portfolio Designing
 - 📫 **How to reach me:** skmusixcreator9@gmail.com
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building modern and interactive web applications, portfolio websites, AI-powered tools, and creative UI/UX-driven projects.<br><br>🤝 I’m looking to collaborate on:<br>Full Stack Web Development projects, innovative UI/UX designs, MERN stack apps, and interactive web animations.<br><br>🫱 I’m looking for help with:<br>Advanced backend architecture, scaling web apps, and integrating AI into real-world projects.<br><br>🌱 I’m currently learning:<br>Next.js, Node.js optimization, advanced Web Animations, and Cloud technologies like Wasabi, AWS & Firebase.<br><br>💬 Ask me about:<br>Web Development, UI/UX Designing, JavaScript, React, Express.js, MongoDB, Animations, Portfolio Designing, and Modern Web Apps.<br><br>⚡ Fun fact:<br>I can turn even a simple idea into an attractive, animated, and user-engaging interface!
+
+I’m a **Full Stack Developer** creating modern, interactive, and animation-rich web applications.  
+Currently learning **Next.js**, **Node.js**, **Cloud Technologies**, and **Advanced UI/UX**.  
+I love collaborating on **MERN projects**, creative designs, and innovative web experiences.  
+💬 Ask me about **Web Development, UI/UX, React, JavaScript, and Animations**.  
+⚡ **Fun fact:** I can turn any simple idea into an attractive and engaging interface!
 
 
 ## 🌐 Socials:
