@@ -3,11 +3,6 @@
 
 Email Me 👉 ✉️ **skmusixcreator9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Interactive web applications, portfolio websites, AI-powered tools & full-stack projects
-- 🌱 **I’m currently learning:** Next.js, Express.js, SQL, Java, Docker, Kubernetes, AWS Cloud, Web Animations & UI/UX
-- 👯 **I’m looking to collaborate on:** MERN Stack projects, creative UI/UX designs, cloud-based apps & modern web experiences
-- 🤔 **I’m looking for help with:** Scalable backend architecture & AI integration for web platforms
-- 💬 **Ask me about:** Web Development, UI/UX, JavaScript, React, MERN Stack, Cloud Deployments, Animations, Portfolio Designing
 - 📫 **How to reach me:** skmusixcreator9@gmail.com
 - 😄 **Pronouns:** He/Him
 
