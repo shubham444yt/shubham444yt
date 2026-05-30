@@ -17,7 +17,7 @@ I love collaborating on **MERN projects**, creative designs, and innovative web 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xrisu_4.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham Thakare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubham Thakare) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Xrisu 4.4) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Shubham Thakare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:st513279@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xrisu_4.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham Thakare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubham Thakare) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@Xrisu 4.4]([https://youtube.com/@xrisu_4.4?si=1rRBC6ZXSoyZ4udH](https://youtube.com/@xrisu_4.4?si=1rRBC6ZXSoyZ4udH))) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Shubham Thakare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:st513279@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
